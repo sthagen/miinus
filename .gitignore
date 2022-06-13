@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # Local artifacts
-
 *~
 .idea
 local_publi.sh
